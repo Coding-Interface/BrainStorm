@@ -1,0 +1,1062 @@
+{
+   "questions":[
+   	  {
+	  	"level": 1,
+         "key":"teapot",
+         "question":"Which teapot has more tea?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"2nd teapot spout is at lower level so it cannot hold much tea.",
+		  "Title":"Yeah",
+		 "Message":"You got it!",
+		 "DYK":"After water, tea is the second most consumed beverage."
+      },
+	  {
+	  	"level": 2,
+         "key":"views",
+         "question":"Which of these views from above is correct?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Correct answer is 4.",
+		  "Title":"Bravo",
+		 "Message":"You got it!",
+		 "DYK":"The earliest toys were made from rocks, sticks or clay."
+      },
+	  {
+	  	"level": 3,
+         "key":"incorrectly",
+         "question":"Which word is spelled incorrectly in the dictionary?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on word “incorrectly”",
+		  "Title":"Congratulations",
+		 "Message":"You got it!",
+		 "DYK":"It took 50 yrs to create the oxford english dictionary."
+      },
+	  {
+	  	"level": 4,
+         "key":"alphabet",
+         "question":"How many alphabets are in alphabet?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on number “8”",
+		  "Title":"Congratulations",
+		 "Message":"You did it!",
+		 "DYK":"Letter E is mostly used  from the English Alphabet"
+      },
+	  {
+	  	"level": 5,
+         "key":"squarecount",
+         "question":"Count the squares.",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Just tap on number 19",
+		  "Title":"Bravo",
+		 "Message":"You got it!",
+		 "DYK":"A square can also be defined as rhombus."
+      },
+	  {
+	  	"level": 6,
+         "key":"zooanimal",
+         "question":"Which of these is not a zoo animal?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Camel is the answer",
+		  "Title":"Congratulations",
+		 "Message":"You did it!",
+		 "DYK":"The word “zoo” is short form of “zoological park."
+      },
+	  {
+	  	"level": 7,
+         "key":"colorsquares",
+         "question":"Which of these answers is incorrect?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Just tap on letter “C”.",
+		  "Title":"Congratulations",
+		 "Message":"You got it right!",
+		 "DYK":"Tetris is a tile-matching video game created by Russian"
+      },
+	  {
+	  	"level": 8,
+         "key":"tap",
+         "question":"Find the fastest tap.",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Just tap on number “2”.",
+		  "Title":"Congratulations",
+		 "Message":"That was brilliant!",
+		 "DYK":"Americans drink over 1 billion glasses of tap water per day."
+      },
+      {
+	  	"level": 9,
+         "key":"donut",
+         "question":"Can you find out the different one?",
+         "answer":"drag",
+         "options":[
+            "event"
+         ],
+		 "hint":"Check behind each donut",
+		 "Title":"Yeah",
+		 "Message":"You found it!",
+		 "DYK":"Over 10 Billion Doughnuts are made each year in U.S"
+        
+      },
+      {
+	  	"level": 10,
+         "key":"tomato",
+         "question":"Count the tomatoes with number 20.",
+		 "answer":"Felix",
+         "options":[
+            "event"
+         ],
+		 "hint":"Don’t get confused with oranges",
+		  "Title":"Bravo",
+		 "Message":"You found them all!",
+		 "DYK":"Tomato is a fruit not vegetable"
+      
+      },
+      {
+         "level": 11,
+         "key":"veggies",
+         "question":"Find the biggest one",
+         "answer":"Earth",
+         "options":[
+            "event"
+         ],
+		 "hint":"Pumpkin is bigger than other veggies",
+		  "Title":"Congratulations",
+		 "Message":"You got it right",
+		 "DYK":"94.5% of the weight of a single tomato is water!"
+      },
+      {
+         "level": 12,
+         "key":"duck",
+         "question":"Where is the duckling?",
+         "answer":"B",
+         "options":[
+           "event"
+         ],
+		 "hint": "Check behind the duck",
+		  "Title":"Congratulations",
+		 "Message":"That’s where it was hiding!",
+		 "DYK":"A male duck is called a drake, a female duck a hen, and a baby duck a duckling."
+      },
+      {
+         "level": 13,
+         "key":"equation1",
+         "question":"If,  1 = 10, 2 = 100, 3 = 250, 4 = 2250, 10 = ?",
+         "answer":"hold",
+         "options":[
+           "1",
+            "1000",
+			"50",
+			"0.5",
+			"500",
+            "300"
+         ],
+		 "hint":"If, 1 = 10 then, 10 = 1",
+		  "Title":"Great",
+		 "Message":"That was tricky!",
+		 "DYK":"The number 1 is NOT prime number"
+      },
+      {
+	  	 "level": 14,
+         "key":"submarine",
+         "question":"There is one submarine that is different from the others. Find it!",
+         "answer":"Apple, Watermelon",
+         "options":[
+            "Apple",
+            "Watermelon",
+            "Pumpkin"
+         ],
+		 "hint":"Check the Second submarine of the top first row which has two blue dots",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"Submarines can dive thousands of feet underwater with ease"
+      },
+      {"level": 15,
+         "key":"jacky",
+         "question":"OMG! Jacky overslept! Wake him up!",
+         "answer":"",
+         "options":[
+            ""
+         ],
+		 "hint":"Open the door and let mom come in",
+		  "Title":"Welldone",
+		 "Message":"You woke him up!",
+		 "DYK":"Humans spend 1/3 of their life sleeping"
+      },
+      {
+	  	  "level": 16,
+         "key":"equation2",
+         "question":"Can you solve this question?",
+         "answer":"14",
+         "options":[
+            "1",
+            "4",
+            "7",
+            "Clear",
+			"2",
+			"5",
+			"8",
+			"0",
+			"3",
+			"6",
+			"9",
+			"Ok"
+         ],
+		 "hint":"It’s 11+2+3+10+2+3+10+2+3+11=?, just enter 57",
+		  "Title":"Bravo",
+		 "Message":"You read equation carefully!",
+		 "DYK":"Every odd number has an “e” in it."
+      },
+	   {
+	   	"level": 17,
+         "key":"parking",
+         "question":"What is the orange car's parking spot number?",
+         "answer":"4th",
+         "options":[
+            "1st",
+            "3rd",
+            "2nd",
+			"4th"
+         ],
+		 "hint":"Move the orange car to see the parking spot number",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"1 billion cars are currently in use around the world"
+      },
+	  {
+	  	"level": 18,
+         "key":"rainyday",
+         "question":"Circle what you see on a Rainy Day",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on rainbow, umbrella, gumboots, clouds and raincoat.",
+		  "Title":"Congratulations",
+		 "Message":"That was brilliant!",
+		 "DYK":"Not all raindrops are made of water"
+      },
+	  {
+	  	"level": 19,
+         "key":"everything",
+         "question":"Put everything in the box",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Along with other things, put the word “everything” in the box.",
+		  "Title":"Congratulations",
+		 "Message":"You read question carefully!",
+		 "DYK":"Cardboard Boxes Are More Than 100 Years Old!"
+      },
+	  {
+	  	"level": 20,
+         "key":"hairs",
+         "question":"Count the number of hair",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Boy is wearing wig. Remove it to check the actual hair.",
+		  "Title":"Yeah",
+		 "Message":"Thank you so much!",
+		 "DYK":"Black is the most common hair color in the world"
+      },
+	  {
+	  	"level": 21,
+         "key":"keydoor",
+         "question":"Choose the right key hole",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Just tap on door 3",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"Locksmiths Were Craftsmen."
+      },
+	  {
+	  	"level": 22,
+         "key":"milkmug",
+         "question":"What’s wrong in the image",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"No milk in the jug, still filling the glass",
+		  "Title":"Congratulations",
+		 "Message":"That was tricky!",
+		 "DYK":"A cow produces an average of 6.3 gallons of milk daily"
+      },
+	  {
+	  	"level": 23,
+         "key":"watch",
+         "question":"What’s wrong in the image",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Numbers IX and XI have switched their places",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"Pennies are used to adjust the time in London’s Big Ben clock tower"
+      },
+	  {
+	  	"level": 24,
+         "key":"train",
+         "question":"There is one train among trolley bus. Find it!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Check in the top fourth row",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"Trolleybuses do not usually have engines"
+      },
+	  {
+	  	"level": 25,
+         "key":"tails",
+         "question":"Match the animals to their tails",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"1=d, 2=e, 3=f, 4=g, 5=a, 6=b, 7=c",
+		  "Title":"Congratulations",
+		 "Message":"You got them all!",
+		 "DYK":"Giraffes have the longest tails"
+      },
+	  {
+	  	"level": 26,
+         "key":"duplicate",
+         "question":"Find one picture without a copy",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Pencil doesn’t have duplicate",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"Matching activities is good for developing fine motor skills"
+      },
+	  {
+	  	 "level": 27,
+         "key":"pig",
+         "question":"Find 5 differences",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"1 - Mouth, 2 - Head, 3 - Toe, 4 - Back, 5 - Tail",
+		  "Title":"Congratulations",
+		 "Message":"You found it right!",
+		 "DYK":"Pigs have an excellent sense of smell"
+      },
+	  {
+	  	"level": 28,
+         "key":"path",
+         "question":"Which path should he choose?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Path B will lead to Banana",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"There are currently 264 known monkey species."
+      },
+	  {
+	  	"level": 29,
+         "key":"airships",
+         "question":"Which group has less SUBMARINES or AIRSHIPS?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Airships. Few more submarines hiding behind each other.",
+		  "Title":"Congratulations",
+		 "Message":"You got it right!",
+		 "DYK":"Airships stay in the sky by floating"
+      },
+	  {
+	  	"level": 30,
+         "key":"bugs",
+         "question":"How many bugs do you see?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Check behind the stone",
+		  "Title":"Yeah",
+		 "Message":"You found it!",
+		 "DYK":"Insects have three pairs of legs"
+      },
+	  {
+	  	"level": 31,
+         "key":"cards",
+         "question":"Hit the jackpot!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Just drop A besides K",
+		  "Title":"Bravo",
+		 "Message":"You did it!",
+		 "DYK":"The 52 cards in a deck correspond to the 52 weeks in a year"
+      },
+	  {
+	  	"level": 32,
+         "key":"piano",
+         "question":"Purchase a piano",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on buy to purchase it",
+		  "Title":"Congratulations",
+		 "Message":"You got it right!",
+		 "DYK":"Piano needs 230 strings to make its full range of sound."
+      },
+	  {
+	  	"level": 33,
+         "key":"ducktext",
+         "question":"Fit the duck above the text",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"It is not mentioned that position should be on top. Try moving text.",
+		  "Title":"Great",
+		 "Message":"That was tricky!",
+		 "DYK":"Ducks are the aquatic birds."
+      },
+	  {
+	  	"level": 34,
+         "key":"piggybank",
+         "question":"Put all the coins in the piggy bank. How many coins are there in now?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Burst the piggy bank",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"During the Middle Ages, people stored their money in a bowl."
+      },
+	  {
+	  	"level": 35,
+         "key":"feedmouse",
+         "question":"Help the mouse to get this cheese!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on the ice to melt it and then feed mouse.",
+		  "Title":"Welldone",
+		 "Message":"You helped him up!",
+		 "DYK":"Mice and rats are more afraid of humans than humans are of them"
+      },
+	  {
+	  	"level": 36,
+         "key":"rectangle",
+         "question":"Find the largest rectangle",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Largest rectangle includes rest all of the rectangles.",
+		  "Title":"Bravo",
+		 "Message":"You got it!",
+		 "DYK":"The formula of rectangle is: Area = Length x Width"
+      },
+	  {
+	  	"level": 37,
+         "key":"treasure",
+         "question":"Open the chest",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Swipe up the chest lid.",
+		  "Title":"Congratulations",
+		 "Message":"That was brilliant!",
+		 "DYK":"Treasure chest is a symbol of thing that you want to hold close."
+      },
+	  {
+	  	"level": 38,
+         "key":"giraffe",
+         "question":"Help the giraffe to eat the apple!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Increase it's neck by swiping up.",
+		  "Title":"Congratulations",
+		 "Message":"You did it!",
+		 "DYK":"Giraffes only need to drink once every few days"
+      },
+	  {
+	  	"level": 39,
+         "key":"tshirt",
+         "question":"Count the holes on the t-shirt",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Just enter 10.",
+		  "Title":"Bravo",
+		 "Message":"You got it right!",
+		 "DYK":"The US Army receives millions of t-shirt donations per year."
+      },
+	  {
+	  	"level": 40,
+         "key":"tom",
+         "question":"Wake up Tom!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Keep finger on boy's face and hold for few secs",
+		  "Title":"Congratulations",
+		 "Message":"You woke him up!",
+		 "DYK":"Humans spend 1/3 of their life sleeping"
+      },
+	  {
+	  	"level": 41,
+         "key":"eggs",
+         "question":"1 Egg = 4 mins. 5 Eggs = ? mins",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"All the 5 eggs will be cooked together so cooking time should be same.",
+		  "Title":"Congratulations",
+		 "Message":"That was amazing !",
+		 "DYK":"Yolk colour depends on the diet of the hen."
+      },
+	  {
+	  	"level": 42,
+         "key":"helpboy",
+         "question":"Help boy to get out of the room",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Open the door using finger impression",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"Aristotle is the father of Logic"
+      },
+	  {
+	  	"level": 43,
+         "key":"trouser",
+         "question":"Count the holes in the trouser",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Just enter 7.",
+		  "Title":"Bravo",
+		 "Message":"You got it right!",
+		 "DYK":"Trousers are comfortable garment to wear when horse-riding."
+      },
+	  {
+	  	"level": 44,
+         "key":"helpchick",
+         "question":"Help chick to drink water",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Move chick towards water",
+		  "Title":"Congratulations",
+		 "Message":"That was brilliant!",
+		 "DYK":"Chickens can remember over 100 different faces of people or animals."
+      },
+	  {
+	  	"level": 45,
+         "key":"lashes",
+         "question":"Count the number of eyelashes",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Girl is wearing lashes. Remove it to check the actual hair.",
+		  "Title":"Congratulations",
+		 "Message":"That was amazing!",
+		 "DYK":"Fake lashes can damage your real lashes"
+      },
+	  {
+	  	"level": 46,
+         "key":"catroad",
+         "question":"Help the cat cross the road",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Cat cannot move, move road and see.",
+		  "Title":"Congratulations",
+		 "Message":"You did it!",
+		 "DYK":"There are over 500 million domestic cats in the world."
+      },
+	  {
+	  	"level": 47,
+         "key":"slowest",
+         "question":"Click on the slowest",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Read carefully, you need to tap on the word “Slowest”",
+		  "Title":"Congratulations",
+		 "Message":"That was tricky!",
+		 "DYK":"The first scientist to measure speed as distance over time was Galileo."
+      },
+	  {
+	  	"level": 48,
+         "key":"pirate",
+         "question":"Create a Pirate Hat",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"A pirate hat has a skeleton image",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"Pirate hats are called as Tricorne"
+      },
+	  {
+	  	"level": 49,
+         "key":"paperclip",
+         "question":"Take out the paper",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Swipe up the clip",
+		  "Title":"Congratulations",
+		 "Message":"That was tricky!",
+		 "DYK":"10 liters of water is needed to make one piece of A4 paper"
+      },
+	  {
+	  	"level": 50,
+         "key":"shoeEquation",
+         "question":"Solve this",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Just enter 14",
+		  "Title":"Congratulations",
+		 "Message":"That was amazing!",
+		 "DYK":"The numbers used in addition are called addends."
+      },
+	  {
+	  	"level": 51,
+         "key":"dogs",
+         "question":"How many dogs are in the room?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Turn of the light to find invisible dog.",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"Dogs can be trained to detect cancer and other diseases in humans."
+      },
+	  {
+	  	"level": 52,
+         "key":"babymom",
+         "question":"Make his mother come home",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Mother is behind the door",
+		  "Title":"Congratulations",
+		 "Message":"You did it!",
+		 "DYK":"Mother elephant gives birth to the largest baby"
+      },
+	  {
+	  	"level": 53,
+         "key":"livingthings",
+         "question":"Circle the living things",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on fish, frog, boy, flower and rabbit.",
+		  "Title":"Congratulations",
+		 "Message":"That was brilliant!",
+		 "DYK":"Living things move in order to survive"
+      },
+	  {
+	  	"level": 54,
+         "key":"scooter",
+         "question":"Beep beep! Which scooter will reach the gas station?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"If you follow the road path, you will see that only B can reach the gas station.",
+		  "Title":"Yeah",
+		 "Message":"You got it!",
+		 "DYK":"Scooters were invented in Germany in 1817."
+      },
+	  {
+	  	"level": 55,
+         "key":"lefthanded",
+         "question":"Can you guess who is left-handed?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"It’s irregular to serve with left hand for a right-handed person. So, the answer is 5.",
+		  "Title":"Bravo",
+		 "Message":"You got it!",
+		 "DYK":"Left-handed people are considered lucky"
+      },
+	  {
+	  	"level": 56,
+         "key":"fullglass",
+         "question":"Which glass gets full first?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Glass 5, 6 and 7 are not possible as there is a blocked connection. Now, as the connection to 3 is lower than that of 2, so it will fill first while rest milk glasses will remain empty.",
+		  "Title":"Congratulations",
+		 "Message":"You got it right!",
+		 "DYK":"Tap is also called as faucet."
+      },
+	  {
+	  	"level": 57,
+         "key":"shadowimage",
+         "question":"Which shadow corresponds to the image?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"The correct answer is D.",
+		  "Title":"Congratulations",
+		 "Message":"You solved it!",
+		 "DYK":"Shadows are longer in the winter because of the angle of the sun."
+      },
+	  {
+	  	"level": 58,
+         "key":"blocks",
+         "question":"Let’s guess how many blocks in this tower?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"You need to count other blocks too which cannot be seen in the image.",
+		  "Title":"Great",
+		 "Message":"That was tricky!",
+		 "DYK":"Numerals vary with each language."
+      },
+	  {
+	  	"level": 59,
+         "key":"bus",
+         "question":"Guess which direction it’s moving in!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Left because we cannot see the door of the bus in this picture!",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"World's oldest known paved road was constructed in Egypt."
+      },
+	  {
+	  	"level": 60,
+         "key":"replacequestion",
+         "question":"What will replace the question mark?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"The first shape has 6 equal sides, the next one has 5 equal sides and the last shape has 4 equal sides. So, the next one should be a triangle (3 equal sides).",
+		  "Title":"Welldone",
+		 "Message":"You did it!",
+		 "DYK":"A right angle triangle has one angle that is 90 degrees."
+      },
+	  {
+	  	"level": 61,
+         "key":"mistake",
+         "question":"Where is the mistake?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on the word “mistake”",
+		  "Title":"Bravo",
+		 "Message":"You read question carefully!",
+		 "DYK":"There is life after mistake"
+      },
+	  {
+	  	"level": 62,
+         "key":"sheeps",
+         "question":"How many sheeps are there?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Move the right cloud, one sheep is hiding behind it.",
+		  "Title":"Congratulations",
+		 "Message":"That was brilliant!",
+		 "DYK":"Lambs walk just minutes after they are born"
+      },
+	  {
+	  	"level": 63,
+         "key":"savefish",
+         "question":"Save the fish!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Keep the fish pot on table",
+		  "Title":"Bravo",
+		 "Message":"You save it!",
+		 "DYK":"Fish have gills that extract oxygen from the water around them."
+      },
+	  {
+	  	"level": 64,
+         "key":"savepandas",
+         "question":"Save the Pandas!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Bring third panda ahead of 1st",
+		  "Title":"Congratulations",
+		 "Message":"You saved them!",
+		 "DYK":"Pandas are 'lazy' — eating and sleeping make their day"
+      },
+	  {
+	  	"level": 65,
+         "key":"separateapples",
+         "question":"Separate apples to related basket",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Drag and drop “a” apple in “a” basket and “A” apple in “A” basket.",
+		  "Title":"Congratulations",
+		 "Message":"That was brilliant!",
+		 "DYK":"Apples come in all shades of reds, greens, and yellows."
+      },
+	  {
+	  	"level": 66,
+         "key":"rapunzel",
+         "question":"Help him to go upstairs",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Put her hair down.",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"The first steps were made of tree trunks"
+      },
+	  {
+	  	"level": 67,
+         "key":"steam",
+         "question":"What is similar?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on steam",
+		  "Title":"Congratulations",
+		 "Message":"That was brilliant!",
+		 "DYK":"Two figures are said to be similar if they are the same shape"
+      },
+	  {
+	  	"level": 68,
+         "key":"colorfruits",
+         "question":"Color all the red fruits",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on “Cherry, Pomegranate, Apple, Strawberry, Raspberry”",
+		  "Title":"Bravo",
+		 "Message":"You got it right!",
+		 "DYK":"Red makes things appear closer than they really are"
+      },
+	  {
+	  	"level": 69,
+         "key":"catcheggs",
+         "question":"Catch the 10 eggs!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Move the basket left and right to catch the eggs.",
+		  "Title":"Congratulations",
+		 "Message":"You did it!",
+		 "DYK":"To clean egg on the floor, sprinkle it heavily with salt."
+      },
+	  {
+	  	"level": 70,
+         "key":"bakecake",
+         "question":"Bake the cake!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Turn off the oven when it reaches green indicator.",
+		  "Title":"Congratulations",
+		 "Message":"You baked it!",
+		 "DYK":"One of the first wedding cakes wasn’t actually cake at all — it was bread."
+      },
+	  {
+	  	"level": 71,
+         "key":"erasefruits",
+         "question":"Remove fruit and veggies",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Erase the fruits and vegetable.",
+		  "Title":"Congratulations",
+		 "Message":"You did it!",
+		 "DYK":"Fruit is a part of a plant that develops from a flower and has seeds."
+      },
+	  {
+	  	"level": 72,
+         "key":"taporder",
+         "question":"Tap in the following order!",
+         "answer":"20, 14, 9, 43, 45, 10",
+         "options":["43","10","9","20","14","45"],
+		 "hint":"Memorize the order 20, 14, 9, 43, 45, 10 before you start tapping.",
+		  "Title":"Congratulations",
+		 "Message":"You did it!",
+		 "DYK":"Human brain starts to remember things from the womb"
+      },
+	  {
+	  	"level": 73,
+         "key":"tiffin",
+         "question":"Open the lid of the lunch box",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on clip to unlock the lunch box",
+		  "Title":"Congratulations",
+		 "Message":"That was amazing!",
+		 "DYK":"Lunch raises your blood sugar level in the middle of the day"
+      },
+	  {
+	  	"level": 74,
+         "key":"birdshoot",
+         "question":"Shoot the birds at once!",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Merge all the birds with the bird on the middle and then shoot slingshoot.",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"Birds have hollow bones which help them fly"
+      },
+	  {
+	  	"level": 75,
+         "key":"drivebus",
+         "question":"Drive to the flag",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Swipe bus towards the flag",
+		  "Title":"Congratulations",
+		 "Message":"That was tricky!",
+		 "DYK":"Tons of race cars can drive upside down."
+      },
+	  {
+	  	"level": 76,
+         "key":"samenum",
+         "question":"Fill in the same number",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Just enter 8",
+		  "Title":"Yeah",
+		 "Message":"You got it!",
+		 "DYK":"Zero is the only number that can't be represented in roman numerals"
+      },
+	  {
+	  	"level": 77,
+         "key":"crow",
+         "question":"Help the crow drink water",
+         "answer":"20, 14, 9, 43, 45, 10",
+         "options":["43","10","9","20","14","45"],
+		 "hint":"Do you know the story of “The Thirsty Crow?”",
+		  "Title":"Congratulations",
+		 "Message":"You did it!",
+		 "DYK":"Crows are extremely intelligent birds."
+      },
+	  {
+	  	"level": 78,
+         "key":"watchtime",
+         "question":"What is the time?",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on option 10.04",
+		  "Title":"Great",
+		 "Message":"That was awesome!",
+		 "DYK":"The term 'clock' has been derived from the Dutch word 'glock'"
+      },
+	  {
+	  	"level": 79,
+         "key":"creatures",
+         "question":"Release all the sea creatures",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on the bubble to release the creatures.",
+		  "Title":"Welldone",
+		 "Message":"You saved them!",
+		 "DYK":"The majority of life on Earth is aquatic"
+      },
+	  {
+	  	"level": 80,
+         "key":"removecar",
+         "question":"Which car would you remove",
+         "answer":"hold",
+         "options":[
+            "event"
+         ],
+		 "hint":"Tap on car 3",
+		  "Title":"Congratulations",
+		 "Message":"You are genius!",
+		 "DYK":"60 million cars are produced every year."
+      }
+   ]
+}
